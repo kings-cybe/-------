@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "bootloader",
+            "includePath": [
+                "firmware/cmsis/core",
+                "firmware/cmsis/device",
+                "firmware/driver/inc",
+                "driver"
+            ],
+            "defines": [
+                "STM32F40_41xxx",
+                "USE_STDPERIPH_DRIVER",
+                "HSE_VALUE=8000000"
+            ],
+            "compilerPath": "C:/Users/YXC/Documents/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc.exe",
+            "intelliSenseMode": "windows-gcc-arm",
+            "cStandard": "c99",
+            "cppStandard": "c++11",
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true
+            }
+        }
+    ],
+    "version": 4
+}
