@@ -25,3 +25,4 @@ third
 
 add key1
 add key2
+add key3
