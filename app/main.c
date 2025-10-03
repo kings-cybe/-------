@@ -22,3 +22,6 @@ int main(void)
 first
 second
 third
+
+add key1
+add key2
